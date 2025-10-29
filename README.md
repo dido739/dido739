@@ -1,3 +1,5 @@
+![dido739's GitHub Banner](https://raw.githubusercontent.com/dido739/dido739/main/banner.png)
+
 # 💫 About Me:
 <br>👋 Hi, I’m @dido739<br>👀 I’m interested in programming and AI<br>🌱 I’m currently learning HTML, PHP, CSS, C++<br>💞️ I’m looking to collaborate on Clonix<br>📫 How to reach me dgigov2010@abv.bg<br>😄 Pronouns: he/him<br>⚡ Fun fact: ...<br><br>
 
